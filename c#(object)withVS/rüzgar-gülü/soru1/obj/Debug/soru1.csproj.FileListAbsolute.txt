@@ -1,0 +1,27 @@
+C:\Users\Opium\Desktop\ntp22\soru1\soru1\bin\Debug\soru1.exe.config
+C:\Users\Opium\Desktop\ntp22\soru1\soru1\bin\Debug\soru1.exe
+C:\Users\Opium\Desktop\ntp22\soru1\soru1\bin\Debug\soru1.pdb
+C:\Users\Opium\Desktop\ntp22\soru1\soru1\obj\Debug\soru1.csprojResolveAssemblyReference.cache
+C:\Users\Opium\Desktop\ntp22\soru1\soru1\obj\Debug\soru1.Properties.Resources.resources
+C:\Users\Opium\Desktop\ntp22\soru1\soru1\obj\Debug\soru1.csproj.GenerateResource.Cache
+C:\Users\Opium\Desktop\ntp22\soru1\soru1\obj\Debug\soru1.exe
+C:\Users\Opium\Desktop\ntp22\soru1\soru1\obj\Debug\soru1.pdb
+C:\Users\Opium\Desktop\ntp22\soru1\soru1\obj\Debug\soru1.Form1.resources
+Z:\Ogretmen\Ali Gümüş\ntp22\soru1\soru1\bin\Debug\soru1.exe.config
+Z:\Ogretmen\Ali Gümüş\ntp22\soru1\soru1\obj\Debug\soru1.exe
+Z:\Ogretmen\Ali Gümüş\ntp22\soru1\soru1\obj\Debug\soru1.pdb
+Z:\Ogretmen\Ali Gümüş\ntp22\soru1\soru1\bin\Debug\soru1.exe
+Z:\Ogretmen\Ali Gümüş\ntp22\soru1\soru1\bin\Debug\soru1.pdb
+Z:\Ogretmen\Ali Gümüş\ntp22\soru1\soru1\obj\Debug\soru1.csprojResolveAssemblyReference.cache
+Z:\Ogretmen\Ali Gümüş\ntp22\soru1\soru1\obj\Debug\soru1.Form1.resources
+Z:\Ogretmen\Ali Gümüş\ntp22\soru1\soru1\obj\Debug\soru1.Properties.Resources.resources
+Z:\Ogretmen\Ali Gümüş\ntp22\soru1\soru1\obj\Debug\soru1.csproj.GenerateResource.Cache
+C:\Users\sinan\Documents\GitHub\respositories\object programing\rüzgar-gülü\soru1\bin\Debug\soru1.exe.config
+C:\Users\sinan\Documents\GitHub\respositories\object programing\rüzgar-gülü\soru1\obj\Debug\soru1.exe
+C:\Users\sinan\Documents\GitHub\respositories\object programing\rüzgar-gülü\soru1\obj\Debug\soru1.pdb
+C:\Users\sinan\Documents\GitHub\respositories\object programing\rüzgar-gülü\soru1\bin\Debug\soru1.exe
+C:\Users\sinan\Documents\GitHub\respositories\object programing\rüzgar-gülü\soru1\bin\Debug\soru1.pdb
+C:\Users\sinan\Documents\GitHub\respositories\object programing\rüzgar-gülü\soru1\obj\Debug\soru1.csprojResolveAssemblyReference.cache
+C:\Users\sinan\Documents\GitHub\respositories\object programing\rüzgar-gülü\soru1\obj\Debug\soru1.Form1.resources
+C:\Users\sinan\Documents\GitHub\respositories\object programing\rüzgar-gülü\soru1\obj\Debug\soru1.Properties.Resources.resources
+C:\Users\sinan\Documents\GitHub\respositories\object programing\rüzgar-gülü\soru1\obj\Debug\soru1.csproj.GenerateResource.Cache
