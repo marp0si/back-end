@@ -1,0 +1,9 @@
+Z:\Ogretmen\Ali Gümüş\veritabani\kutuphane\kutuphane\bin\Debug\kutuphane.exe.config
+Z:\Ogretmen\Ali Gümüş\veritabani\kutuphane\kutuphane\bin\Debug\kutuphane.exe
+Z:\Ogretmen\Ali Gümüş\veritabani\kutuphane\kutuphane\bin\Debug\kutuphane.pdb
+Z:\Ogretmen\Ali Gümüş\veritabani\kutuphane\kutuphane\obj\Debug\kutuphane.csprojResolveAssemblyReference.cache
+Z:\Ogretmen\Ali Gümüş\veritabani\kutuphane\kutuphane\obj\Debug\kutuphane.Properties.Resources.resources
+Z:\Ogretmen\Ali Gümüş\veritabani\kutuphane\kutuphane\obj\Debug\kutuphane.csproj.GenerateResource.Cache
+Z:\Ogretmen\Ali Gümüş\veritabani\kutuphane\kutuphane\obj\Debug\kutuphane.exe
+Z:\Ogretmen\Ali Gümüş\veritabani\kutuphane\kutuphane\obj\Debug\kutuphane.pdb
+Z:\Ogretmen\Ali Gümüş\veritabani\kutuphane\kutuphane\obj\Debug\kutuphane.Form1.resources

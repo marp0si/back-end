@@ -1,0 +1,16 @@
+C:\Users\Opium\Desktop\ntp22\soru2\soru2\bin\Debug\soru2.exe.config
+C:\Users\Opium\Desktop\ntp22\soru2\soru2\bin\Debug\soru2.exe
+C:\Users\Opium\Desktop\ntp22\soru2\soru2\bin\Debug\soru2.pdb
+C:\Users\Opium\Desktop\ntp22\soru2\soru2\obj\Debug\soru2.Form1.resources
+C:\Users\Opium\Desktop\ntp22\soru2\soru2\obj\Debug\soru2.Properties.Resources.resources
+C:\Users\Opium\Desktop\ntp22\soru2\soru2\obj\Debug\soru2.csproj.GenerateResource.Cache
+C:\Users\Opium\Desktop\ntp22\soru2\soru2\obj\Debug\soru2.exe
+C:\Users\Opium\Desktop\ntp22\soru2\soru2\obj\Debug\soru2.pdb
+Z:\Ogretmen\Ali Gümüş\ntp22\soru2\soru2\bin\Debug\soru2.exe.config
+Z:\Ogretmen\Ali Gümüş\ntp22\soru2\soru2\obj\Debug\soru2.exe
+Z:\Ogretmen\Ali Gümüş\ntp22\soru2\soru2\obj\Debug\soru2.pdb
+Z:\Ogretmen\Ali Gümüş\ntp22\soru2\soru2\bin\Debug\soru2.exe
+Z:\Ogretmen\Ali Gümüş\ntp22\soru2\soru2\bin\Debug\soru2.pdb
+Z:\Ogretmen\Ali Gümüş\ntp22\soru2\soru2\obj\Debug\soru2.Form1.resources
+Z:\Ogretmen\Ali Gümüş\ntp22\soru2\soru2\obj\Debug\soru2.Properties.Resources.resources
+Z:\Ogretmen\Ali Gümüş\ntp22\soru2\soru2\obj\Debug\soru2.csproj.GenerateResource.Cache

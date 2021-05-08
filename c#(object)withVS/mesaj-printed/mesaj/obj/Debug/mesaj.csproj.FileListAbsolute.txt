@@ -1,0 +1,9 @@
+C:\Users\ahmet\Desktop\mesaj\mesaj\bin\Debug\mesaj.exe.config
+C:\Users\ahmet\Desktop\mesaj\mesaj\bin\Debug\mesaj.exe
+C:\Users\ahmet\Desktop\mesaj\mesaj\bin\Debug\mesaj.pdb
+C:\Users\ahmet\Desktop\mesaj\mesaj\obj\Debug\mesaj.csprojResolveAssemblyReference.cache
+C:\Users\ahmet\Desktop\mesaj\mesaj\obj\Debug\mesaj.Form1.resources
+C:\Users\ahmet\Desktop\mesaj\mesaj\obj\Debug\mesaj.Properties.Resources.resources
+C:\Users\ahmet\Desktop\mesaj\mesaj\obj\Debug\mesaj.csproj.GenerateResource.Cache
+C:\Users\ahmet\Desktop\mesaj\mesaj\obj\Debug\mesaj.exe
+C:\Users\ahmet\Desktop\mesaj\mesaj\obj\Debug\mesaj.pdb
