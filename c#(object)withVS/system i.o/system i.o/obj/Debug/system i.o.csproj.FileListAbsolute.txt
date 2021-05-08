@@ -1,0 +1,9 @@
+c:\users\sinan\documents\visual studio 2012\Projects\system i.o\system i.o\bin\Debug\system i.o.exe.config
+c:\users\sinan\documents\visual studio 2012\Projects\system i.o\system i.o\bin\Debug\system i.o.exe
+c:\users\sinan\documents\visual studio 2012\Projects\system i.o\system i.o\bin\Debug\system i.o.pdb
+c:\users\sinan\documents\visual studio 2012\Projects\system i.o\system i.o\obj\Debug\system i.o.csprojResolveAssemblyReference.cache
+c:\users\sinan\documents\visual studio 2012\Projects\system i.o\system i.o\obj\Debug\system_i.o.Form1.resources
+c:\users\sinan\documents\visual studio 2012\Projects\system i.o\system i.o\obj\Debug\system_i.o.Properties.Resources.resources
+c:\users\sinan\documents\visual studio 2012\Projects\system i.o\system i.o\obj\Debug\system i.o.csproj.GenerateResource.Cache
+c:\users\sinan\documents\visual studio 2012\Projects\system i.o\system i.o\obj\Debug\system i.o.exe
+c:\users\sinan\documents\visual studio 2012\Projects\system i.o\system i.o\obj\Debug\system i.o.pdb
